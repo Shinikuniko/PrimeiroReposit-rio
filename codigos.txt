@@ -1,0 +1,21 @@
+git init-----inicia o git na pasta
+git add------adiciona um arquivo
+git push-----envia para o endereço informado
+git status---mostra o status do git
+git commit---cria uma commit(versão)
+
+
+
+
+
+
+
+
+git remote add origin https://github.com/Shinikuniko/PrimeiroReposit-rio.git----------setar origin
+
+
+[
+Branch----------Ramificações
+Commit----------Versões
+-m--------------add comentário
+]
